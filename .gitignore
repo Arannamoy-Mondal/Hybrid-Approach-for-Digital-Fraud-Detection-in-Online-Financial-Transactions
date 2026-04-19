@@ -1,2 +1,5 @@
 *.pth
 *.txt
+mlruns
+*.db
+mlartifacts
